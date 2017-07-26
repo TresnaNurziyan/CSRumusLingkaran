@@ -1,0 +1,5 @@
+c:\users\geeksfarm\documents\visual studio 2015\Projects\CSRumusLingkaran\CSRumusLingkaran\bin\Debug\CSRumusLingkaran.exe.config
+c:\users\geeksfarm\documents\visual studio 2015\Projects\CSRumusLingkaran\CSRumusLingkaran\bin\Debug\CSRumusLingkaran.exe
+c:\users\geeksfarm\documents\visual studio 2015\Projects\CSRumusLingkaran\CSRumusLingkaran\bin\Debug\CSRumusLingkaran.pdb
+c:\users\geeksfarm\documents\visual studio 2015\Projects\CSRumusLingkaran\CSRumusLingkaran\obj\Debug\CSRumusLingkaran.exe
+c:\users\geeksfarm\documents\visual studio 2015\Projects\CSRumusLingkaran\CSRumusLingkaran\obj\Debug\CSRumusLingkaran.pdb
